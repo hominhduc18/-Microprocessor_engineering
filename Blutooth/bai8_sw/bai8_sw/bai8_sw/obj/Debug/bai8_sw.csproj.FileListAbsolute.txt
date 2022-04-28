@@ -1,0 +1,21 @@
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\bin\Debug\bai8_sw.exe.config
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\bin\Debug\bai8_sw.exe
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\bin\Debug\bai8_sw.pdb
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\obj\Debug\bai8_sw.csproj.AssemblyReference.cache
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\obj\Debug\bai8_sw.Form1.resources
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\obj\Debug\bai8_sw.Properties.Resources.resources
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\obj\Debug\bai8_sw.csproj.GenerateResource.cache
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\obj\Debug\bai8_sw.csproj.CoreCompileInputs.cache
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\obj\Debug\bai8_sw.exe
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\obj\Debug\bai8_sw.pdb
+E:\giao tiep thiet bi ngoai vi\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\bin\Debug\bai8_sw.exe.config
+E:\giao tiep thiet bi ngoai vi\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\bin\Debug\bai8_sw.exe
+E:\giao tiep thiet bi ngoai vi\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\bin\Debug\bai8_sw.pdb
+E:\giao tiep thiet bi ngoai vi\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\obj\Debug\bai8_sw.csproj.AssemblyReference.cache
+E:\giao tiep thiet bi ngoai vi\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\obj\Debug\bai8_sw.csproj.SuggestedBindingRedirects.cache
+E:\giao tiep thiet bi ngoai vi\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\obj\Debug\bai8_sw.Form1.resources
+E:\giao tiep thiet bi ngoai vi\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\obj\Debug\bai8_sw.Properties.Resources.resources
+E:\giao tiep thiet bi ngoai vi\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\obj\Debug\bai8_sw.csproj.GenerateResource.cache
+E:\giao tiep thiet bi ngoai vi\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\obj\Debug\bai8_sw.csproj.CoreCompileInputs.cache
+E:\giao tiep thiet bi ngoai vi\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\obj\Debug\bai8_sw.exe
+E:\giao tiep thiet bi ngoai vi\bai8_blutooth\bai8_sw\bai8_sw\bai8_sw\obj\Debug\bai8_sw.pdb

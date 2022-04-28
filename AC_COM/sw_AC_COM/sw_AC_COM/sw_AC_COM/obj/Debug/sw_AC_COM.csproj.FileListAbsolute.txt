@@ -1,0 +1,31 @@
+C:\Users\HUONG\Desktop\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\bin\Debug\sw_AC_COM.exe.config
+C:\Users\HUONG\Desktop\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\bin\Debug\sw_AC_COM.exe
+C:\Users\HUONG\Desktop\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\bin\Debug\sw_AC_COM.pdb
+C:\Users\HUONG\Desktop\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.csproj.AssemblyReference.cache
+C:\Users\HUONG\Desktop\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.Form1.resources
+C:\Users\HUONG\Desktop\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.Properties.Resources.resources
+C:\Users\HUONG\Desktop\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.csproj.GenerateResource.cache
+C:\Users\HUONG\Desktop\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Desktop\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.exe
+C:\Users\HUONG\Desktop\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.pdb
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\bin\Debug\sw_AC_COM.exe.config
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\bin\Debug\sw_AC_COM.exe
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\bin\Debug\sw_AC_COM.pdb
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.csproj.AssemblyReference.cache
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.Form1.resources
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.Properties.Resources.resources
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.csproj.GenerateResource.cache
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.csproj.CoreCompileInputs.cache
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.exe
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.pdb
+E:\giao tiep thiet bi ngoai vi\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.csproj.AssemblyReference.cache
+E:\giao tiep thiet bi ngoai vi\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.csproj.SuggestedBindingRedirects.cache
+E:\giao tiep thiet bi ngoai vi\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.Form1.resources
+E:\giao tiep thiet bi ngoai vi\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.Properties.Resources.resources
+E:\giao tiep thiet bi ngoai vi\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.csproj.GenerateResource.cache
+E:\giao tiep thiet bi ngoai vi\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.csproj.CoreCompileInputs.cache
+E:\giao tiep thiet bi ngoai vi\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.exe
+E:\giao tiep thiet bi ngoai vi\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\obj\Debug\sw_AC_COM.pdb
+E:\giao tiep thiet bi ngoai vi\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\bin\Debug\sw_AC_COM.exe.config
+E:\giao tiep thiet bi ngoai vi\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\bin\Debug\sw_AC_COM.exe
+E:\giao tiep thiet bi ngoai vi\AC_COM\sw_AC_COM\sw_AC_COM\sw_AC_COM\bin\Debug\sw_AC_COM.pdb

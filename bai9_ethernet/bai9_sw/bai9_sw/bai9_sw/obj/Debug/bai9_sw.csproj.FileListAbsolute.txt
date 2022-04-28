@@ -1,0 +1,21 @@
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\bin\Debug\bai9_sw.exe.config
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\bin\Debug\bai9_sw.exe
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\bin\Debug\bai9_sw.pdb
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\obj\Debug\bai9_sw.csproj.AssemblyReference.cache
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\obj\Debug\bai9_sw.Form1.resources
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\obj\Debug\bai9_sw.Properties.Resources.resources
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\obj\Debug\bai9_sw.csproj.GenerateResource.cache
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\obj\Debug\bai9_sw.csproj.CoreCompileInputs.cache
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\obj\Debug\bai9_sw.exe
+D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\obj\Debug\bai9_sw.pdb
+C:\Users\HP\Desktop\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\bin\Debug\bai9_sw.exe.config
+C:\Users\HP\Desktop\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\bin\Debug\bai9_sw.exe
+C:\Users\HP\Desktop\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\bin\Debug\bai9_sw.pdb
+C:\Users\HP\Desktop\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\obj\Debug\bai9_sw.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\obj\Debug\bai9_sw.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\obj\Debug\bai9_sw.Form1.resources
+C:\Users\HP\Desktop\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\obj\Debug\bai9_sw.Properties.Resources.resources
+C:\Users\HP\Desktop\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\obj\Debug\bai9_sw.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\obj\Debug\bai9_sw.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\obj\Debug\bai9_sw.exe
+C:\Users\HP\Desktop\bai9_ethernet\bai9_sw\bai9_sw\bai9_sw\obj\Debug\bai9_sw.pdb

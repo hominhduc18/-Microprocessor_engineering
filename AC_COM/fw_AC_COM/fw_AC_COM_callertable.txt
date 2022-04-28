@@ -1,0 +1,7 @@
+main
+	UART1_Init
+	Button
+		Delay_500us
+	UART1_Write
+	UART1_Data_Ready
+	UART1_Read

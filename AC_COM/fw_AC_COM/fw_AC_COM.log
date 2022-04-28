@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo20 -N"D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\AC_COM\fw_AC_COM\fw_AC_COM.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\HOANG CA\GIAO TIEP VA DIEU KHIEN THIET BI NGOAI VI\TH Giao Tiep va Dieu Khien TBNV\AC_COM\fw_AC_COM\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "fw_AC_COM.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_Button.mcl" "__Lib_UART_c67.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	fw_AC_COM.c
+diagnostics: 190	123	Compiled Successfully	fw_AC_COM.c
+diagnostics: 0	127	All files Compiled in 156 ms	 
+hint: 0	1144	Used RAM (bytes): 25 (1%)  Free RAM (bytes): 2002 (99%)	Used RAM (bytes): 25 (1%)  Free RAM (bytes): 2002 (99%)
+hint: 0	1144	Used ROM (bytes): 1114 (3%)  Free ROM (bytes): 31654 (97%)	Used ROM (bytes): 1114 (3%)  Free ROM (bytes): 31654 (97%)
+diagnostics: 0	125	Project Linked Successfully	fw_AC_COM.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'fw_AC_COM.mcppi' completed: 235 ms	 
+diagnostics: 0	103	Finished successfully: 27 Thg3 2022, 16:51:50	fw_AC_COM.mcppi

@@ -1,0 +1,51 @@
+E:\giao tiep thiet bi ngoai vi\Software_USB\Software_USB\bin\Debug\Software_USB.exe.config
+E:\giao tiep thiet bi ngoai vi\Software_USB\Software_USB\bin\Debug\Software_USB.exe
+E:\giao tiep thiet bi ngoai vi\Software_USB\Software_USB\bin\Debug\Software_USB.pdb
+E:\giao tiep thiet bi ngoai vi\Software_USB\Software_USB\obj\Debug\Software_USB.csproj.AssemblyReference.cache
+E:\giao tiep thiet bi ngoai vi\Software_USB\Software_USB\obj\Debug\Software_USB.csproj.SuggestedBindingRedirects.cache
+E:\giao tiep thiet bi ngoai vi\Software_USB\Software_USB\obj\Debug\Software_USB.Form1.resources
+E:\giao tiep thiet bi ngoai vi\Software_USB\Software_USB\obj\Debug\Software_USB.Properties.Resources.resources
+E:\giao tiep thiet bi ngoai vi\Software_USB\Software_USB\obj\Debug\Software_USB.csproj.GenerateResource.cache
+E:\giao tiep thiet bi ngoai vi\Software_USB\Software_USB\obj\Debug\Software_USB.csproj.CoreCompileInputs.cache
+E:\giao tiep thiet bi ngoai vi\Software_USB\Software_USB\obj\Debug\Software_USB.exe
+E:\giao tiep thiet bi ngoai vi\Software_USB\Software_USB\obj\Debug\Software_USB.pdb
+E:\giao tiep thiet bi ngoai vi\Software_USB\Software_USB\bin\Debug\UsbLibrary.dll
+E:\giao tiep thiet bi ngoai vi\Software_USB\Software_USB\obj\Debug\Software_USB.csproj.CopyComplete
+C:\Users\HUONG\Desktop\Software_USB\Software_USB\bin\Debug\Software_USB.exe.config
+C:\Users\HUONG\Desktop\Software_USB\Software_USB\bin\Debug\Software_USB.exe
+C:\Users\HUONG\Desktop\Software_USB\Software_USB\bin\Debug\Software_USB.pdb
+C:\Users\HUONG\Desktop\Software_USB\Software_USB\bin\Debug\UsbLibrary.dll
+C:\Users\HUONG\Desktop\Software_USB\Software_USB\obj\Debug\Software_USB.csproj.AssemblyReference.cache
+C:\Users\HUONG\Desktop\Software_USB\Software_USB\obj\Debug\Software_USB.Form1.resources
+C:\Users\HUONG\Desktop\Software_USB\Software_USB\obj\Debug\Software_USB.Properties.Resources.resources
+C:\Users\HUONG\Desktop\Software_USB\Software_USB\obj\Debug\Software_USB.csproj.GenerateResource.cache
+C:\Users\HUONG\Desktop\Software_USB\Software_USB\obj\Debug\Software_USB.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Desktop\Software_USB\Software_USB\obj\Debug\Software_USB.csproj.CopyComplete
+C:\Users\HUONG\Desktop\Software_USB\Software_USB\obj\Debug\Software_USB.exe
+C:\Users\HUONG\Desktop\Software_USB\Software_USB\obj\Debug\Software_USB.pdb
+E:\giao tiep thiet bi ngoai vi\Software_USB (1)\Software_USB\bin\Debug\Software_USB.exe.config
+E:\giao tiep thiet bi ngoai vi\Software_USB (1)\Software_USB\bin\Debug\Software_USB.exe
+E:\giao tiep thiet bi ngoai vi\Software_USB (1)\Software_USB\bin\Debug\Software_USB.pdb
+E:\giao tiep thiet bi ngoai vi\Software_USB (1)\Software_USB\bin\Debug\UsbLibrary.dll
+E:\giao tiep thiet bi ngoai vi\Software_USB (1)\Software_USB\obj\Debug\Software_USB.csproj.AssemblyReference.cache
+E:\giao tiep thiet bi ngoai vi\Software_USB (1)\Software_USB\obj\Debug\Software_USB.csproj.SuggestedBindingRedirects.cache
+E:\giao tiep thiet bi ngoai vi\Software_USB (1)\Software_USB\obj\Debug\Software_USB.Form1.resources
+E:\giao tiep thiet bi ngoai vi\Software_USB (1)\Software_USB\obj\Debug\Software_USB.Properties.Resources.resources
+E:\giao tiep thiet bi ngoai vi\Software_USB (1)\Software_USB\obj\Debug\Software_USB.csproj.GenerateResource.cache
+E:\giao tiep thiet bi ngoai vi\Software_USB (1)\Software_USB\obj\Debug\Software_USB.csproj.CoreCompileInputs.cache
+E:\giao tiep thiet bi ngoai vi\Software_USB (1)\Software_USB\obj\Debug\Software_USB.csproj.CopyComplete
+E:\giao tiep thiet bi ngoai vi\Software_USB (1)\Software_USB\obj\Debug\Software_USB.exe
+E:\giao tiep thiet bi ngoai vi\Software_USB (1)\Software_USB\obj\Debug\Software_USB.pdb
+E:\giao tiep thiet bi ngoai vi\Software_USB (1) - Copy\Software_USB\bin\Debug\Software_USB.exe.config
+E:\giao tiep thiet bi ngoai vi\Software_USB (1) - Copy\Software_USB\bin\Debug\Software_USB.exe
+E:\giao tiep thiet bi ngoai vi\Software_USB (1) - Copy\Software_USB\bin\Debug\Software_USB.pdb
+E:\giao tiep thiet bi ngoai vi\Software_USB (1) - Copy\Software_USB\bin\Debug\UsbLibrary.dll
+E:\giao tiep thiet bi ngoai vi\Software_USB (1) - Copy\Software_USB\obj\Debug\Software_USB.csproj.AssemblyReference.cache
+E:\giao tiep thiet bi ngoai vi\Software_USB (1) - Copy\Software_USB\obj\Debug\Software_USB.csproj.SuggestedBindingRedirects.cache
+E:\giao tiep thiet bi ngoai vi\Software_USB (1) - Copy\Software_USB\obj\Debug\Software_USB.Form1.resources
+E:\giao tiep thiet bi ngoai vi\Software_USB (1) - Copy\Software_USB\obj\Debug\Software_USB.Properties.Resources.resources
+E:\giao tiep thiet bi ngoai vi\Software_USB (1) - Copy\Software_USB\obj\Debug\Software_USB.csproj.GenerateResource.cache
+E:\giao tiep thiet bi ngoai vi\Software_USB (1) - Copy\Software_USB\obj\Debug\Software_USB.csproj.CoreCompileInputs.cache
+E:\giao tiep thiet bi ngoai vi\Software_USB (1) - Copy\Software_USB\obj\Debug\Software_USB.csproj.CopyComplete
+E:\giao tiep thiet bi ngoai vi\Software_USB (1) - Copy\Software_USB\obj\Debug\Software_USB.exe
+E:\giao tiep thiet bi ngoai vi\Software_USB (1) - Copy\Software_USB\obj\Debug\Software_USB.pdb

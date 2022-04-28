@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo20 -N"E:\giao tiep thiet bi ngoai vi\bai8_blutooth\bai8_fw\bai8_fw.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"E:\giao tiep thiet bi ngoai vi\bai8_blutooth\bai8_fw\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "bai8_fw.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_Button.mcl" "__Lib_UART_c67.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	bai8_fw.c
+diagnostics: 237	123	Compiled Successfully	bai8_fw.c
+diagnostics: 0	127	All files Compiled in 125 ms	 
+hint: 0	1144	Used RAM (bytes): 33 (2%)  Free RAM (bytes): 1994 (98%)	Used RAM (bytes): 33 (2%)  Free RAM (bytes): 1994 (98%)
+hint: 0	1144	Used ROM (bytes): 1270 (4%)  Free ROM (bytes): 31498 (96%)	Used ROM (bytes): 1270 (4%)  Free ROM (bytes): 31498 (96%)
+diagnostics: 0	125	Project Linked Successfully	bai8_fw.mcppi
+diagnostics: 0	128	Linked in 46 ms	 
+diagnostics: 0	129	Project 'bai8_fw.mcppi' completed: 187 ms	 
+diagnostics: 0	103	Finished successfully: 18 Apr 2022, 07:55:09	bai8_fw.mcppi
